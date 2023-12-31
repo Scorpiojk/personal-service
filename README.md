@@ -10,12 +10,14 @@ Diseño de la pagina: ![diseño](https://alvarobuenoworkout.com/)
 
 #### Lista de tareas
 
-[ ] Paleta de colores - 70 20 10
-[ ] Maquetado html on chat gpt
-[ ] Imagenes que utilizare
-[ ] Organizacion de archivos
-[ ] Dividir lo mas posible las tareas
-[ ] ...
+- [ ] Paleta de colores - 70 20 10
+- [ ] Maquetado html on chat gpt
+- [ ] Imagenes que utilizare
+- [ ] Organizacion de archivos
+- [ ] Dividir lo mas posible las tareas
+- [ ] ...
+
+---
 
 ##### Tecnologias que voy a usar
 
