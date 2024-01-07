@@ -1,9 +1,5 @@
-# Pagina de personal trainer
-
----
-
-> [!IMPORTANT]
-> yo no soy diseñador de paginas tomo referencias de otros compañeros, no busco mostrar si el diseño es bueno o malo
+[!IMPORTANT]
+yo no soy diseñador de paginas tomo referencias de otros compañeros, no busco mostrar si el diseño es bueno o malo
 
 ### Idea de la pagina
 
