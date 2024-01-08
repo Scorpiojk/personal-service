@@ -20,7 +20,7 @@
 - [ ] Organizacion de archivos
 - [ ] Dividir lo mas posible las tareas
 - [ ] _Maquetado html on chat gpt_
-  - [ ] Nav bar
+  - [x] Nav bar
   - [ ] header
   - [ ] maquetado contenido paginas
   - [ ] solicitacion de turno
